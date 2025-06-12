@@ -1,0 +1,22 @@
+h1, h2
+{
+    color:brown;
+    font-family: Arial, sans-serif;
+
+}
+
+article
+{
+    background-color: 98FB98; /* PaleGreen */
+    background-image: url('https://www.bing.com/images/search?view=detailV2&ccid=Eq8IFbUD&id=F8BC6EC3B2FEF82057E59A8B0092D8FA87F7F3B9&thid=OIP.Eq8IFbUDmC9KAqOV1wUi4gHaHa&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.12af0815b503982f4a02a395d70522e2%3frik%3dufP3h%252frYkgCLmg%26riu%3dhttp%253a%252f%252feoimages.gsfc.nasa.gov%252fimages%252fimagerecords%252f0%252f885%252fmodis_wonderglobe_lrg.jpg%26ehk%3duMreqvzjNI97iCx8t3r8yhMbU%252fg6whTiSA2z8%252brTDII%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=4096&expw=4096&q=picture+of+earth&simid=608019189561118901&FORM=IR  ');
+    width: 500;
+    height: 500;
+    color: burlywood;
+    font-family: Impact;
+}
+
+.blur
+{
+    backdrop-filter: blur(5px);
+    background-color: rgba(255,255,255,0.3);
+}
